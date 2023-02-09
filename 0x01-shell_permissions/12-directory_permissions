@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir --mode=751 chest_dir
+mkdir --mode751 chestdir
